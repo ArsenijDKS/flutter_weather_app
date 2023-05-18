@@ -12,10 +12,10 @@ ____
 
 ## Technologies
 
-<div>
+<div text-align: center>
   <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width=7% height=7% alt="flutter"> <p>Flutter</p> 
 </div>
-<div>
+<div text-align: center>
   <img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" width=7% height=7% alt="flutter"> <p>Dart</p>
 </div>
 ____
