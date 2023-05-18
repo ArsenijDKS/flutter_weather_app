@@ -12,7 +12,12 @@ ____
 
 ## Technologies
 
-<img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width=7% height=7% alt="flutter"> <p>Flutter</p> <img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" width=7% height=7% alt="flutter"> <p>Dart</p>
+<div>
+  <img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width=7% height=7% alt="flutter"> <p>Flutter</p> 
+</div>
+<div>
+  <img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" width=7% height=7% alt="flutter"> <p>Dart</p>
+</div>
 ____
 
 ## Screenshots
