@@ -13,4 +13,4 @@ ____
 ## Technologies
 
 ![dart](https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/dart.svg)
-![flutter](https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/flutter.svg)
+![flutter]([https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/flutter.svg](https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png))
