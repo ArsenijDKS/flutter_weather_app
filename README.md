@@ -1,3 +1,7 @@
 # flutter_weather_app
 
-A Flutter project - Simple Weather App.
+Weather App - Dart&Flutter
+____
+  
+## Description
+____
