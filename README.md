@@ -12,5 +12,5 @@ ____
 
 ## Technologies
 
-<img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width=50% height=50%>
+<img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width=10% height=10%>
 ![dart](https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/dart.svg)
