@@ -17,4 +17,8 @@ ____
 
 ____
 
+<<<<<<< HEAD
 ## Screenshots
+=======
+## Screenshots
+>>>>>>> 06da60fa38d9445e2542b686d535ba5d76c23b70
