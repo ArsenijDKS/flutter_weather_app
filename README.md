@@ -17,3 +17,5 @@ ____
 ____
 
 ## Screenshots & Video 
+
+<img src="img\Screenshot_1.png" width=100% height=100% alt="flutter"> <img src="img\Screenshot_2.png" width=100% height=100% alt="flutter"> <img src="img\Weather_record.webm" width=100% height=100% alt="flutter">
