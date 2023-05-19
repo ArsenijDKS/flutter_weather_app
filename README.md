@@ -18,4 +18,4 @@ ____
 
 ## Screenshots & Video 
 
-<img src="img\Screenshot_1.png" width=100% height=100% alt="flutter"> <img src="img\Screenshot_2.png" width=100% height=100% alt="flutter"> <img src="img\Weather_record.webm" width=100% height=100% alt="flutter">
+<img src="img\Screenshot_1.png" width=20% height=20% alt="Screenshot_1"> <img src="img\Screenshot_2.png" width=20% height=20% alt="Screenshot_1"> <img src="img\Weather_record.gif" width=20% height=20% alt="Weather_record">
