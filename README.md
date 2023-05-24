@@ -12,7 +12,7 @@ ____
 
 ## Technologies & Languages
 
-<img src="https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png" width=7% height=7% alt="flutter"> <img src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png" width=7% height=7% alt="flutter">
+<img src="img\Flutter_logo.png" width=12% height=12% alt="flutter"> <img src="img\Dart_logo.png" width=12% height=12% alt="flutter">
 </div>
 
 ____
